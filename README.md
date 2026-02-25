@@ -1,6 +1,6 @@
-Public Safety Analytics Dashboard – Santander
+# Public Safety Analytics Dashboard – Santander
 
-📊 Overview
+## 📊 Overview
 
 Interactive Power BI dashboard developed to analyze 330,000+ crime records (2010–2025) in Santander, Colombia.
 
@@ -8,7 +8,7 @@ The solution transforms public safety data into actionable insights through tren
 
 ⸻
 
-🏆 Recognition
+## 🏆 Recognition
 
 Ranked 4th place in the “Datos Abiertos” competition (Advanced Category), organized by the Ministry of Information and Communication Technologies of Colombia (MinTIC).
 
@@ -16,7 +16,7 @@ The competition evaluated data-driven solutions focused on public sector impact 
 
 ⸻
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 Support data-driven decision-making by enabling:
 	•	Identification of high-crime municipalities
@@ -26,7 +26,7 @@ Support data-driven decision-making by enabling:
 
 ⸻
 
-🧠 My Contribution
+## 🧠 My Contribution
 	•	Designed complete star schema data model
 	•	Built advanced DAX measures and time intelligence metrics
 	•	Developed interactive dashboards with drill-through capabilities
@@ -35,7 +35,7 @@ Support data-driven decision-making by enabling:
 
 ⸻
 
-🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 	•	Data Modeling (Star Schema)
 	•	Advanced DAX
 	•	Time Intelligence
@@ -45,7 +45,7 @@ Support data-driven decision-making by enabling:
 
 ⸻
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 (Insert dashboard screenshots here)
 
