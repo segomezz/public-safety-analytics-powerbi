@@ -64,6 +64,3 @@ https://app.powerbi.com/view?r=eyJrIjoiMzRmNDg1NDAtY2ZmOS00OGE2LTk5MTctOGU2NDk3O
 
 ⸻
 
-🔗 Live Dashboard
-
-(Insert Power BI Service link here if available)
